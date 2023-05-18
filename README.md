@@ -11,7 +11,7 @@ I Created back-end functionality to front-end starter code to create a note taki
 [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat)](https://heroku.com)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/home)
 
-
+![note-taker](public\assets\images\note-taker.jpg)
 
 
 ## Table of Contents
@@ -26,13 +26,13 @@ I Created back-end functionality to front-end starter code to create a note taki
 To run application locally, check if you have Node.js installed by typing "node -v" in your command line. If node is not installed, visit the [Node.js website](https://nodejs.org/en) to install. Next, clone this project repository to your computer. Use the command "npm install" to install dependecies (Express.js & UUID). Type "node server.js" or "npm start" to start server.
 
 ## Usage
-* Access website through deployed [Heroku link](). 
+* Access website through deployed [Heroku link](https://note-taker-aldabagh.herokuapp.com/). 
 * Type a new note title and note text in the designated input areas. 
 * Click the 'save' icon to save a new note. 
 * Access and open saved notes by selecting a note in the list located on the left side. 
 * Click the red trash can to delete a saved note. 
 
-Watch the [video demonstration]() to view basic functionality.
+Watch the [video demonstration](https://watch.screencastify.com/v/rrfP6NhcUkSguqPBb9XE) to view basic functionality.
 
 
 - below GIF file showing the functionality of the application.
