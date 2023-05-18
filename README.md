@@ -11,7 +11,7 @@ I Created back-end functionality to front-end starter code to create a note taki
 [![Heroku Badge](https://img.shields.io/badge/Heroku-430098?logo=heroku&logoColor=fff&style=flat)](https://heroku.com)
 [![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/home)
 
-![note-taker](public\assets\images\note-taker.jpg)
+![note-taker](./public/assets/images/note-taker.jpg)
 
 
 ## Table of Contents
