@@ -44,7 +44,8 @@ Watch the [video demonstration]() to view basic functionality.
 
 ## Contributing
 
-[Starter code](https://github.com/coding-boot-camp/miniature-eureka) was provided by Xander Rapstine ([Xandromus](https://github.com/Xandromus)), John McCambridge ([nol166](https://github.com/nol166)), and George Yoo ([Georgeyoo](https://github.com/Georgeyoo)) on behalf of University of Minnesota Full Stack Boot Camp.
+[Starter code](https://github.com/coding-boot-camp/miniature-eureka) was provided by Xander Rapstine ([Xandromus](https://github.com/Xandromus)), John McCambridge ([nol166](https://github.com/nol166)), and George Yoo ([Georgeyoo](https://github.com/Georgeyoo)) on behalf of University of Minnesota Full Stack Boot Camp. 
+[Corey Jimenez](https://github.com/jimenez2society) help and show me some tips to create routes.
 
 ## Questions
 
